@@ -44,6 +44,7 @@ into the file "NSO_Services.py" in the method "create_golden_config_service" the
 
 
 Known issues
+
 this only work with XE device platform.
 
 
